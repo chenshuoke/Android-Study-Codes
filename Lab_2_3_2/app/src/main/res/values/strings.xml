@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_2_3_2</string>
+    <string name="btn1_name">圆型进度条对话框</string>
+    <string name="btn2_name">长条进度条对话框</string>
+</resources>

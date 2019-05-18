@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="tv_1">AlertDialog示例</string>
+    <string name="btn_1">确认对话框</string>
+    <string name="btn_2">列表对话框</string>
+    <string name="btn_3">单选对话框</string>
+    <string name="btn_4">多选对话框</string>
+    <string name="btn_5">自定义对话框</string>
+
+    <string name="tv_3">用户名：</string>
+    <string name="tv_4">密码：</string>
+</resources>
