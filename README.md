@@ -7,7 +7,7 @@ The process of learning Android
 * [Lab_2_2_2 BaseAdapter](#Lab_2_2_2BaseAdapter)
 * [Lab_2_3 AlertDialog](#Lab_2_3AlertDialog)
 * [Lab_2_3_2 ProgressDialog](#Lab_2_3_2ProgressDialog)
-* [Lab_2_4 Fragment、FragmentTabHost](#Lab_2_4FragmentFragmentTabHost)
+* [Lab_2_4 Fragment、FragmentTabHost](#Lab_2_4Fragment_FragmentTabHost)
 
 ### Lab_2_2ListView
 
@@ -59,7 +59,7 @@ The process of learning Android
 
 #### [详情](/Lab_2_3_2/README.md)
 
-### Lab_2_4FragmentFragmentTabHost
+### Lab_2_4Fragment_FragmentTabHost
 
 结合**Fragment**与**FragmentTabHost**实现如图所示程序界面和**底部菜单栏**功能
 <div align="center">
