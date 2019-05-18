@@ -7,7 +7,7 @@ The process of learning Android
 * [Lab_2_2_2 BaseAdapter](#Lab_2_2_2BaseAdapter)
 * [Lab_2_3 AlertDialog](#Lab_2_3AlertDialog)
 * [Lab_2_3_2 ProgressDialog](#Lab_2_3_2ProgressDialog)
-* [Lab_2_4 Fragment,FragmentTabHost](#Lab_2_4Fragment,FragmentTabHost)
+* [Lab_2_4 Fragment、FragmentTabHost](#Lab_2_4Fragment,FragmentTabHost)
 
 ### Lab_2_2ListView
 
