@@ -21,7 +21,7 @@ The process of learning Android
 
 </br>
 
-#### [详情](/Lab_2_2/REMADE.md)
+#### [详情](/Lab_2_2/README.md)
 
 ### Lab_2_2_2BaseAdapter
 
@@ -33,7 +33,7 @@ The process of learning Android
 
 </br>
 
-#### [详情](/Lab_2_2_2/REMADE.md)
+#### [详情](/Lab_2_2_2/README.md)
 
 ### Lab_2_3AlertDialog
 
@@ -45,7 +45,7 @@ The process of learning Android
 
 </br>
 
-#### [详情](/Lab_2_3/REMADE.md)
+#### [详情](/Lab_2_3/README.md)
 
 ### Lab_2_3_2ProgressDialog
 
@@ -57,7 +57,7 @@ The process of learning Android
 
 </br>
 
-#### [详情](/Lab_2_3_2/REMADE.md)
+#### [详情](/Lab_2_3_2/README.md)
 
 ### Lab_2_4Fragment,FragmentTabHost
 
@@ -68,4 +68,4 @@ The process of learning Android
 
 </br>
 
-#### [详情](/Lab_2_4/REMADE.md)
+#### [详情](/Lab_2_4/README.md)
